@@ -1,6 +1,6 @@
-# SeaReader Support website
+# HaiYue Reader Support website
 
-Static multilingual support / privacy pages for SeaReader (海阅笔记).
+Static multilingual support / privacy pages for HaiYue Reader (海阅笔记).
 
 ## Publish using GitHub Pages
 
